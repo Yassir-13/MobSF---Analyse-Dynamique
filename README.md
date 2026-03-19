@@ -62,13 +62,13 @@ L’interface web est accessible via :
 http://localhost:8000
 
 ![5](5.png)
-
-![6](6.png)
 ---
 
 ## Exploitation et analyse dynamique
 
 ### 5. Interface de test (Application DIVA)
+
+![6](6.png)
 
 Une fois connecté à l’interface web, nous lançons l’analyse dynamique.
 
